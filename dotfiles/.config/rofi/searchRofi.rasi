@@ -1,0 +1,26 @@
+* {
+    /* Set font and size */
+    font: "DejaVu Sans Mono 13";
+
+    /* Set background and foreground colors */
+    background-color: #222222;
+    color: #FFFFFF;
+
+    /* Set padding */
+    /* window */
+      width: 900;
+      height: 70;
+      padding: 5;
+
+}
+
+inputbar {
+    /* Set input bar background and foreground colors */
+    background-color: #333333;
+}
+
+selected-row {
+    /* Set selected row background and foreground colors */
+    background-color: #005577;
+}
+
