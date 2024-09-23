@@ -1,5 +1,5 @@
 
-#!/bin/sh
+!/bin/sh
 
 ##################### AUTOSTART ###############################
 xrandr -s 1600x900
@@ -25,8 +25,8 @@ dunst&
 
 #image
 
-#feh --bg-fill /home/linux/Pictures/pxArt1.png& 2>/dev/null
-feh --bg-fill /home/linux/.config/bspwm/redcorekali.png& 2>/dev/null
+#feh --bg-fill $HOME/Pictures/pxArt1.png& 2>/dev/null
+feh --bg-fill $HOME/.config/bspwm/redcorekali.png& 2>/dev/null
 #feh --bg-fill /usr/share/backgrounds/kali-16x9/kali-night-skyA-1920x1080.png
 
 #feh --image-bg "#COLOR" --bg-center "IMAGE"

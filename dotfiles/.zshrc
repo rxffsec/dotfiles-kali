@@ -436,7 +436,6 @@ lock_screen() {
 
 # To add support for TTYs this line can be optionally added.
 #source ~/.cache/wal/colors-tty.sh
-#source /home/linux/.../powerlevel10k/powerlevel10k.zsh-theme
 
 #[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
